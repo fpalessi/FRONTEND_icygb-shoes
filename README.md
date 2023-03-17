@@ -1,0 +1,1 @@
+Sneakers ecommerce project built on Express, MongoDB and React. It has user authentication as well as many other features such as being able to add products to the cart, delete them, etc. These products can also be sorted by color, size, price... Once the user decides on his favorite sneakers, he will be able to make the payment thanks to the Stripe payment processing platform. 
